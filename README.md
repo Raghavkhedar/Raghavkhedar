@@ -33,10 +33,10 @@
 <br>
 <h3 style="left: 50px; position:relative;">Connect with me:</h3> 
 
-<a href="https://twitter.com/its_me_ojas"><img align="left" title="Twitter - Ojas" alt="Twitter" height="28px" src="./logos/twitter_coloured.png" /></a>
-<a href="https://www.linkedin.com/in/ojas310/"><img align="left" title="LinkedIn - Ojas" alt="LinkedIn" height="28px" src="./logos/linkedin_coloured.png" /></a>
-<a href="https://www.instagram.com/itscrestfallen/"><img align="left" title="Instagram - Ojas" alt="Instagram" height="28px" src="./logos/instagram_coloured.png" /></a>
-<a href="mailto:crestfallenwizard@gmail.com"><img align="left" title="Mail - Ojas" alt="Mail" height="28px" src="./logos/gmail_coloured.png" /></a>
+<a href="https://twitter.com/RaghavKhedar"><img align="left" title="Twitter - Ojas" alt="Twitter" height="28px" src="./logos/twitter_coloured.png" /></a>
+<a href="https://www.linkedin.com/in/raghav-khedar-009406251/"><img align="left" title="LinkedIn - Ojas" alt="LinkedIn" height="28px" src="./logos/linkedin_coloured.png" /></a>
+<a href="https://www.instagram.com/khedar._/"><img align="left" title="Instagram - Ojas" alt="Instagram" height="28px" src="./logos/instagram_coloured.png" /></a>
+<a href="mailto:raghavkhedar528@gmail.com"><img align="left" title="Mail - Ojas" alt="Mail" height="28px" src="./logos/gmail_coloured.png" /></a>
 
 
 
