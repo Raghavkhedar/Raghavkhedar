@@ -1,43 +1,35 @@
-<link rel="stylesheet" type="text/css" media="all" href="styles.css" />
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Raghav Khedar
+=====================================================================================================================================
 
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, my name is Raghav</h1>
-<h2 align="center" class="noborder">I am a CS undergrad from India!</h2>
-<br>
-  <img align="right" alt="GIF" src="https://github.com/its-me-ojas/its-me-ojas/blob/main/Media/Avatar.png" width="45%" style="margin:0 50px;"> 
-<h3>About Me:</h3>
+Web Developer
+-------------
 
-- 🌱 I’m currently learning Tailwind.  
-- 🤝 I'm Looking for help with DSA. 
+I have been learning to code for 2 years now and have good expertise in HTML,CSS and JS
 
-<br>
-
-
-<h3 align="left">Skills: </h3>
-
-<div style="display:flex;flex-direction:row;justify-content:space-evenly;align-items:center;widht:100%">
-
-<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
-<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
-<img align="left" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" />
-<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-
-
-<br>
-
-</div>
- 
-
-<br>
-<br>
-<h3 style="left: 50px; position:relative;">Connect with me:</h3> 
-
-<a href="https://twitter.com/RaghavKhedar"><img align="left" title="Twitter - Ojas" alt="Twitter" height="28px" src="./logos/twitter_coloured.png" /></a>
-<a href="https://www.linkedin.com/in/raghav-khedar-009406251/"><img align="left" title="LinkedIn - Ojas" alt="LinkedIn" height="28px" src="./logos/linkedin_coloured.png" /></a>
-<a href="https://www.instagram.com/khedar._/"><img align="left" title="Instagram - Ojas" alt="Instagram" height="28px" src="./logos/instagram_coloured.png" /></a>
-<a href="mailto:raghavkhedar528@gmail.com"><img align="left" title="Mail - Ojas" alt="Mail" height="28px" src="./logos/gmail_coloured.png" /></a>
-
-
-
-
+*   🌍  I'm based in India
+*   ✉️  You can contact me at [raghavkhedar528@gmail.com](mailto:raghavkhedar528@gmail.com)
+*   🧠  I'm learning React
+*   🤝  I'm open to collaborating on web dev projects
+*   ⚡  Im not mentally prepared for anything but we ball### Skills 
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+                    </p>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                      <a href="https://www.github.com/raghavkhedar" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                      <a href="http://www.instagram.com/khedar._" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="undefined" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+                    </picture>
+                    </a></p>
