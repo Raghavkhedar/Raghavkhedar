@@ -1,43 +1,62 @@
-<link rel="stylesheet" type="text/css" media="all" href="styles.css" />
+<h2 align="left">Hi 👋! My name is Raghav</h2>
 
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, my name is Raghav</h1>
-<h2 align="center" class="noborder">I am a CS undergrad from India!</h2>
-<br>
-  <img align="right" alt="GIF" src="https://github.com/its-me-ojas/its-me-ojas/blob/main/Media/Avatar.png" width="45%" style="margin:0 50px;"> 
-<h3>About Me:</h3>
+###
 
-- 🌱 I’m currently learning Tailwind.  
-- 🤝 I'm Looking for help with DSA. 
-
-<br>
-
-
-<h3 align="left">Skills: </h3>
-
-<div style="display:flex;flex-direction:row;justify-content:space-evenly;align-items:center;widht:100%">
-
-<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
-<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
-<img align="left" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" />
-<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-
-
-<br>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RaghavKhedar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaghavKhedar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaghavKhedar&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
- 
 
-<br>
-<br>
-<h3 style="left: 50px; position:relative;">Connect with me:</h3> 
+###
 
-<a href="https://twitter.com/its_me_ojas"><img align="left" title="Twitter - Ojas" alt="Twitter" height="28px" src="./logos/twitter_coloured.png" /></a>
-<a href="https://www.linkedin.com/in/ojas310/"><img align="left" title="LinkedIn - Ojas" alt="LinkedIn" height="28px" src="./logos/linkedin_coloured.png" /></a>
-<a href="https://www.instagram.com/itscrestfallen/"><img align="left" title="Instagram - Ojas" alt="Instagram" height="28px" src="./logos/instagram_coloured.png" /></a>
-<a href="mailto:crestfallenwizard@gmail.com"><img align="left" title="Mail - Ojas" alt="Mail" height="28px" src="./logos/gmail_coloured.png" /></a>
+<div align="left">
+  <a href="https://www.instagram.com/khedar._/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="fliper0005" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="raghavkhedar528@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/raghav-khedar-009406251/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
+###
 
+<img align="left" height="150" src="https://gifdb.com/images/high/curious-orange-cute-cat-u5nrb3aq8mox1u4f.gif"  />
 
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/RaghavKhedar/RaghavKhedar/output/snake.svg" alt="Snake animation" />
+
+###
