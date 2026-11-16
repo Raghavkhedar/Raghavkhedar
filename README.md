@@ -12,8 +12,8 @@
 
 <img src="./cards/stack.svg" width="100%" alt="Tech stack" />
 
-<a href="https://github.com/Raghavkhedar/WhiteCoffee01"><img src="./cards/repo1.svg" width="49.5%" alt="WhiteCoffee01" /></a>
-<a href="https://github.com/Raghavkhedar/whitecoffeeadmin"><img src="./cards/repo2.svg" width="49.5%" alt="whitecoffeeadmin" /></a>
+<a href="https://github.com/Raghavkhedar/whitecoffee"><img src="./cards/repo1.svg" width="49.5%" alt="whitecoffee" /></a>
+<a href="https://github.com/Raghavkhedar/ERP"><img src="./cards/repo2.svg" width="49.5%" alt="ERP" /></a>
 
 [LinkedIn](https://www.linkedin.com/in/raghav-khedar-009406251/) &nbsp;·&nbsp; [Instagram](https://www.instagram.com/khedar._/) &nbsp;·&nbsp; [Discord](https://discordapp.com/users/fliper0005) &nbsp;·&nbsp; [Email](mailto:raghavkhedar528@gmail.com)
 

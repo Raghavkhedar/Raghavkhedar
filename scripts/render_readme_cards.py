@@ -37,14 +37,15 @@ TILES = [
     dict(file="learn", color=YELLOW, ink=INK, label="LEARN", n=4, unit="years of B.E.",
          lines=["Computer vision, systems", "and whatever is next."]),
 ]
-STACK = ["C", "C++", "Python", "HTML5", "CSS3", "Bootstrap", "Tailwind CSS", "JavaScript", "TypeScript", "React"]
+STACK = ["Python", "Django", "JavaScript", "TypeScript", "React", "Next.js", "Tailwind CSS", "HTML5", "CSS3",
+         "Kotlin", "Firebase", "PostgreSQL", "Docker", "htmx", "Apps Script", "Git", "C++", "C", "Bootstrap"]
 REPOS = [
-    dict(file="repo1", name="WhiteCoffee01", lang="HTML", color=YELLOW,
-         desc=["Part of WhiteCoffee, the field-ops", "project. Archived."],
-         url="https://github.com/Raghavkhedar/WhiteCoffee01"),
-    dict(file="repo2", name="whitecoffeeadmin", lang="TypeScript", color=BLUE,
-         desc=["Admin portal for WhiteCoffee,", "written in TypeScript. Archived."],
-         url="https://github.com/Raghavkhedar/whitecoffeeadmin"),
+    dict(file="repo1", name="whitecoffee", lang="HTML", color=YELLOW,
+         desc=["Field-ops monorepo: Android app,", "Next.js admin portal, Firebase."],
+         url="https://github.com/Raghavkhedar/whitecoffee"),
+    dict(file="repo2", name="ERP", lang="Python", color=RED,
+         desc=["Django and PostgreSQL ERP for", "hiring and onboarding."],
+         url="https://github.com/Raghavkhedar/ERP"),
 ]
 CUP = [
     "      )   (     )",
